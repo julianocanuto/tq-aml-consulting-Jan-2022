@@ -28,7 +28,7 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 | 20402           | Agência Espacial Brasileira |
 
 ### I - É possível identificar o Nome e Documento (CNPJ) dos favorecidos pela utilização do CPGF?
-É possível identificar o Nome e Documento (CNPJ) dos favorecidos **somente em parte dos dados**, pois há movimentações com status como: *"NAO SE APLICA"*, *"SEM INFORMACAO"* e *"Sigiloso"*.
+É possível identificar o Nome e Documento (CNPJ) dos favorecidos **somente em parte dos dados**, pois há movimentações com status como: **NAO SE APLICA**, **SEM INFORMACAO** e **Sigiloso**.
 
 ### J – É possível identificar a data e o valor das movimentações financeiras do CPGF, em todas as movimentações? Ou há movimentações onde não é possível identificar as datas e ou valores?
 
@@ -38,7 +38,8 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 | VALOR TRANSAÇÃO | Todos os valores foram informados                                                               |
 
 ### K (código) – Qual a soma total das movimentações utilizando o CPGF?
-R$ 5.619.007,95
+| Total das movimentações utilizando o CPGF | R$ 5.619.007,95 |
+|-------------------------------------------|-----------------|
 ### L (código) – Qual a soma das movimentações sigilosas ?
 R$ 3.108.731,15
 ### M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o valor (somado)?
