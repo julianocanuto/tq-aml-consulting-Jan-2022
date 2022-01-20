@@ -52,6 +52,8 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 
 ### N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma dos saques realizada por ele? Qual o nome do Órgão desse portador?
 
+**Premissa**: Considerou-se um saque todos os movimentos que continham no campo 'TRANSAÇÃO' a palavra 'SAQUE'.
+
 | NOME PORTADOR         | NOME ÓRGÃO                                              | TOTAL SAQUES |
 |-----------------------|---------------------------------------------------------|--------------|
 | RAFAEL FERREIRA COSTA | Instituto Chico Mendes de Conservação da Biodiversidade | R$ 24.520,0  |
