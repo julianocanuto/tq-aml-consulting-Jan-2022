@@ -15,8 +15,9 @@ Ainda de acordo com [1] a finalidade do CPGF é:
 | Dados do CPGF para download | https://www.portaltransparencia.gov.br/download-de-dados/cpgf |
 |-----------------------------|---------------------------------------------------------------|
 ### E – Qual a URL da paǵina com a descrição dos campos (ou dicionário de dados) da CPGF?
-Dicionário de dados
-URL: https://www.portaldatransparencia.gov.br/pagina-interna/603393-dicionario-de-dados-cpgf
+
+| Dicionário de dados | https://www.portaldatransparencia.gov.br/pagina-interna/603393-dicionario-de-dados-cpgf |
+|---------------------|-----------------------------------------------------------------------------------------|
 ### F – É possível identificar o nome e o documento do portador do CPGF, em todas as movimentações ou há movimentações onde não é possível identificar o portador?
 Não é possível identificar o nome e o documento do portador do CPGF, em todas as movimentações, pois há movimentações em que o nome do portador é *'Sigiloso'* ou *'SEM INFORMAÇÂO'*.
 ### G – É possível identificar o Órgão do portador do CPGF?
