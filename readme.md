@@ -64,10 +64,28 @@ O favorecido, identificável, que mais recebeu compras realizadas utilizando o C
 ### P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
 
 - K
+  - Somar o campo 'VALOR TRANSAÇÃO' de todos os registros de movimentação.
 - L
+  > **Premissa:**
+Movimentação Sigilosa: É aquela na qual o campo NOME FAVORECIDO é igual a Sigiloso.
+
+  - Criar dataframe com as movimentações que contem NOME FAVORECIDO == Sigiloso
+Somar o campo VALOR TRANSAÇÃO do dataframe de movimentações Sigilosas
 - M
+  - Criar dataframe com as colunas de interesse a partir do dataframe de movimentações sigilosas
+  - Fazer a soma do VALOR TRANSAÇÃO agrupando por NOME ÓRGÃO
+  - Obter Órgão com maior somatório de movimentações sigilosas
+
 - N
+  - Criar dataframe apenas com as colunas de interesse ['NOME ÓRGÃO', 'NOME PORTADOR', 'TRANSAÇÃO', 'VALOR TRANSAÇÃO']
+  - Filtrar movimentações que contenham "SAQUE" na coluna 'TRANSAÇÃO
+  - Fazer a soma das transações realizadas agrupando por PORTADOR e depois por NOME ÓRGÃO
+  - Obter o PORTADOR com o maior somatório de VALOR TRANSAÇÃO 
 - O
+  - Criar dataframe apenas com as colunas de interesse ['NOME FAVORECIDO', 'VALOR TRANSAÇÃO']
+  - Agrupar soma das transações recebidas por FAVORECIDO e depois por NOME ÓRGÃO
+  - Obter o FAVORECIDO com o maior somatório de VALOR TRANSAÇÃO
+
 ### Referências
 1. https://www.portaltransparencia.gov.br/pagina-interna/603242-cartao-de-pagamento-do-governo-federal
 2. https://www.gov.br/compras/pt-br/agente-publico/orientacoes-no-combate-a-covid-19/midias/suprimento-de-fundos.pdf
