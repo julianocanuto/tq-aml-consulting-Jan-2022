@@ -6,8 +6,8 @@ Lavagem de dinheiro é o processo que tem por objetivo tornar o dinheiro de orig
 De acordo com o site do Portal da Transparência[[1]](#Referências), o Cartão de Pagamento do Governo Federal é:
 > "(...) um meio de pagamento utilizado pelo governo que funciona de forma similar ao cartão de crédito que utilizamos em nossas vidas, porém dentro de limites e regras específicas."
 
-Ainda de acordo com [1] a finalidade do CPGF é para:
-> pagamentos de despesas próprias, que possam ser enquadradas como suprimento de fundos.
+Ainda de acordo com [1] a finalidade do CPGF é:
+> (...) para pagamentos de despesas próprias, que possam ser enquadradas como suprimento de fundos.
 ### C – Quem pode utilizar o CPGF?
  **REVISAR** 
  > "(...) os órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e dos Comandos Militares (...)" [[1]](#Referências)
