@@ -1,5 +1,6 @@
 # Teste de qualificação – Vaga analista de desenvolvimento / implantação PLD 2022
 
+Código disponível no [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julianocanuto/tq-aml-consulting-Jan-2022/main?labpath=tq_aml_consulting_Jan_2022.ipynb)
 ### A – Com suas palavras explique o que é lavagem de dinheiro.
 Lavagem de dinheiro é o processo que tem por objetivo tornar o dinheiro de origem ilícita em dinheiro de origem lícita.
 ### B – O que é Cartão de Pagamento do Governo Federal (CPGF), e qual a sua finalidade.
