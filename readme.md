@@ -41,7 +41,9 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 | Total das movimentações utilizando o CPGF | R$ 5.619.007,95 |
 |-------------------------------------------|-----------------|
 ### L (código) – Qual a soma das movimentações sigilosas ?
-R$ 3.108.731,15
+
+| Total das movimentações sigilosas | R$ 3.108.731,15 |
+|-----------------------------------|-----------------|
 ### M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o valor (somado)?
 
 | NOME ÓRGÃO               | TOTAL TRANSAÇÕES SIGILOSAS   |
