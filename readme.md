@@ -9,8 +9,7 @@ De acordo com o site do Portal da Transparência[[1]](#Referências), o Cartão 
 Ainda de acordo com [1] a finalidade do CPGF é:
 > (...) para pagamentos de despesas próprias, que possam ser enquadradas como suprimento de fundos.
 ### C – Quem pode utilizar o CPGF?
- **REVISAR** 
- > "(...) os órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e dos Comandos Militares (...)" [[1]](#Referências)
+  Concedido ao **servidor** para pagamento de despesas. [[1][4]](#Referências)
 ### D – Qual a URL onde é possível fazer o download dos arquivos do CPGF?
 Dados do CPGF para download
 URL: https://www.portaltransparencia.gov.br/download-de-dados/cpgf
