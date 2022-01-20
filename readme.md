@@ -18,8 +18,8 @@ Ainda de acordo com [1] a finalidade do CPGF é:
 
 | Dicionário de dados | https://www.portaldatransparencia.gov.br/pagina-interna/603393-dicionario-de-dados-cpgf |
 |---------------------|-----------------------------------------------------------------------------------------|
-### F – É possível identificar o nome e o documento do portador do CPGF, em todas as movimentações ou há movimentações onde não é possível identificar o portador?
-Não é possível identificar o nome e o documento do portador do CPGF, em todas as movimentações, pois há movimentações em que o nome do portador é *'Sigiloso'* ou *'SEM INFORMAÇÂO'*.
+### F – É possível identificar o nome e o documento do portador do CPGF, *em todas as movimentações* ou há movimentações onde não é possível identificar o portador?
+Não é possível identificar o nome e o documento do portador do CPGF em todas as movimentações, pois há movimentações em que o nome do portador é *'Sigiloso'* ou *'SEM INFORMAÇÂO'* e há registros com o campo documento *vazio*.
 ### G – É possível identificar o Órgão do portador do CPGF?
 É possível identificar o Órgão do portador do CPFG **através do campo *'NOME ÓRGÃO'***.
 ### H - Qual o nome do Órgão cujo código é 20402?
