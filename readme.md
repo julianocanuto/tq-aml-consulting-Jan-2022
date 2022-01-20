@@ -52,8 +52,6 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 
 ### N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma dos saques realizada por ele? Qual o nome do Órgão desse portador?
 
-**Premissa**: Considerou-se um saque todos os movimentos que continham no campo 'TRANSAÇÃO' a palavra 'SAQUE'.
-
 | NOME PORTADOR         | NOME ÓRGÃO                                              | TOTAL SAQUES |
 |-----------------------|---------------------------------------------------------|--------------|
 | RAFAEL FERREIRA COSTA | Instituto Chico Mendes de Conservação da Biodiversidade | R$ 24.520,0  |
@@ -84,7 +82,9 @@ Somar o campo VALOR TRANSAÇÃO do dataframe de movimentações Sigilosas
   - Obter Órgão com maior somatório de movimentações sigilosas
 
 - N
+    > **Premissa**: Considerou-se um saque todos os movimentos que continham no campo 'TRANSAÇÃO' a palavra 'SAQUE'.
   - Criar dataframe apenas com as colunas de interesse ['NOME ÓRGÃO', 'NOME PORTADOR', 'TRANSAÇÃO', 'VALOR TRANSAÇÃO']
+  - Identificar valores de preenchimento do campo TRANSAÇÃO
   - Filtrar movimentações que contenham "SAQUE" na coluna 'TRANSAÇÃO
   - Fazer a soma das transações realizadas agrupando por PORTADOR e depois por NOME ÓRGÃO
   - Obter o PORTADOR com o maior somatório de VALOR TRANSAÇÃO 
