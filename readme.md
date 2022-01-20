@@ -59,12 +59,13 @@ Não é possível identificar o nome e o documento do portador do CPGF em todas 
 
 O favorecido, identificável, que mais recebeu compras realizadas utilizando o CPGF foi o MERCADOPAGO.COM REPRESENTACOES LTDA.
 
-| NOME FAVORECIDO                     | VALOR TRANSAÇÃO |
+
+| Nome do favorecido                  |  Total recebido |
 |-------------------------------------|:---------------:|
-| Sigiloso                            |  R$ 3108731,15  |
-| NAO SE APLICA                       |   R$ 367504,96  |
-| SEM INFORMACAO                      |   R$ 67421,29   |
-| MERCADOPAGO.COM REPRESENTACOES LTDA |   R$ 60694,21   |
+| Sigiloso                            | R$ 3.108.731,15 |
+| Não se Aplica                       |  R$ 367.504,96  |
+| Sem informação                      |   R$ 67.421,29  |
+| MERCADOPAGO.COM REPRESENTACOES LTDA |   R$ 60.694,21  |
 ### P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
 
 - K
